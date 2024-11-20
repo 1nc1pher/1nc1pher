@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1nc1pher
+- 👋 Hi, I’m Arafat Bin A Sattar, a computer science student from Bangladesh. I am currently a fresher at Bangladesh University of Engineering and Technology.
 - 👀 I’m interested in learning computer science and artifical intelligence. I want to work with talented developers on various projects and learn from the experience.
 - 🌱 I’m currently learning structured programming language and discrete mathematics
 - 💞️ I’m looking to collaborate on full stack development projects and game projects.
